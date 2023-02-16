@@ -1,0 +1,125 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* hello_w
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 16.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-16 18:58+0000\n"
+"PO-Revision-Date: 2023-02-16 19:58+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. module: hello_w
+#: model:ir.model.fields.selection,name:hello_w.selection__ej_pet__type__bird
+msgid "Bird"
+msgstr "Pajaro"
+
+#. module: hello_w
+#: model:ir.model.fields.selection,name:hello_w.selection__ej_pet__type__cat
+msgid "Cat"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__create_uid
+msgid "Created by"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields.selection,name:hello_w.selection__ej_pet__type__dog
+msgid "Dog"
+msgstr "Perro"
+
+#. module: hello_w
+#: model:ir.model.fields.selection,name:hello_w.selection__ej_pet__type__fish
+msgid "Fish"
+msgstr "Memo"
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__id
+msgid "ID"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields.selection,name:hello_w.selection__ej_pet__type__other
+msgid "Other"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.ui.menu,name:hello_w.ej_pets_menu
+#: model:ir.ui.menu,name:hello_w.submenu_ej_pets_action
+#: model:ir.ui.menu,name:hello_w.submenu_ej_pets_menu
+msgid "Pets"
+msgstr ""
+
+#. module: hello_w
+#: model_terms:ir.ui.view,arch_db:hello_w.view_ej_pet_form
+msgid "Pets List"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__age
+msgid "age"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__color
+msgid "color"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model,name:hello_w.model_ej_pet
+msgid "ej.pet"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__is_new
+msgid "is_new"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__name
+msgid "name"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.actions.act_window,name:hello_w.act_ej_pet
+msgid "pet"
+msgstr ""
+
+#. module: hello_w
+#: model:ir.model.fields,field_description:hello_w.field_ej_pet__type
+msgid "type"
+msgstr ""
